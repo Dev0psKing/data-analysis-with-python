@@ -32,22 +32,6 @@ checksum = "6bd56dee9f99a21cd9391f0f112616a4"
 id = 245543
 checksum = "9d476518b7a4c08619dbade352cc0d06"
 
-[exercises.part01-e09_merge]
-id = 245552
-checksum = "c33fc086579ab6e13cb1e5e8922a9080"
-
-[exercises.part01-e10_detect_ranges]
-id = 245551
-checksum = "762b151f74abcf56116cd5506aab855a"
-
-[exercises.part01-e11_interleave]
-id = 245553
-checksum = "858de0756683ab1548d8b829660e0136"
-
-[exercises.part01-e12_distinct_characters]
-id = 245546
-checksum = "8d276adb6f602ccca1b0b71035616259"
-
 [exercises.part01-e13_reverse_dictionary]
 id = 245548
 checksum = "4fd3c1e6576c05e64f5f651f842ea5d2"
