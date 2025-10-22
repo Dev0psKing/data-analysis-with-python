@@ -13,7 +13,7 @@ main = load(module_name, "main")
 @points('p01-02.1')
 class Compliment(unittest.TestCase):
 
-    
+   
     def test_first(self):
         with patch('builtins.input', side_effect=['France']) as prompt:
             main()
